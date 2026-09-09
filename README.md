@@ -129,7 +129,7 @@ The private production repository uses a blue-green deploy setup, a health check
 
 ## Real-world usage
 
-- ~170 registered users
+- ~190 registered users
 - ~5,100 unique visitors over 30 days (Cloudflare analytics)
 - Real user messages and sessions, not just registrations
 - Active streamer partner integrations with live OBS overlays in use
