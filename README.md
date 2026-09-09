@@ -2,7 +2,7 @@
 
 A matchmaking platform for Hungarian CS2 players. Find teammates by ELO, availability, and playstyle, without digging through Discord channels.
 
-**Live:** [maybe.hu](https://maybe.hu) &nbsp;|&nbsp; **Status:** Active, early-stage &nbsp;|&nbsp; ~170 registered users, ~5.1k unique visitors/30 days (Cloudflare)
+**Live:** [maybe.hu](https://maybe.hu) &nbsp;|&nbsp; **Status:** Active, early-stage &nbsp;|&nbsp; ~190 registered users, ~5.1k unique visitors/30 days (Cloudflare)
 
 ---
 
