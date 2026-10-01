@@ -2,7 +2,7 @@
 
 A matchmaking platform for Hungarian CS2 players. Find teammates by ELO, availability, and playstyle, without digging through Discord channels.
 
-**Live:** [maybe.hu](https://maybe.hu) &nbsp;|&nbsp; **Status:** Active, early-stage &nbsp;|&nbsp; ~201 registered users, ~5.1k unique visitors/30 days (Cloudflare)
+**Live:** [maybe.hu](https://maybe.hu) &nbsp;|&nbsp; **Status:** Active, early-stage &nbsp;|&nbsp; ~170 registered users, ~5.1k unique visitors/30 days (Cloudflare)
 
 ---
 
@@ -24,7 +24,7 @@ I built maybe.hu to solve that specific problem: a structured, filterable, sessi
 
 ## Screenshots
 
-*Coming soon: player discovery board, profile / session view, admin analytics dashboard.*
+*Coming soon.*
 
 ---
 
@@ -55,8 +55,17 @@ I built maybe.hu to solve that specific problem: a structured, filterable, sessi
 
 **Streamer partnerships**
 - Tracked referral links with click-to-registration conversion attribution
-- Per-streamer customized OBS overlays
+- 11 per-streamer customized OBS overlays, active in production
 - Twitch live status sync
+
+**Giveaway system**
+- Weekly prize draws with cryptographically verifiable randomness (Web Crypto API, public seed, SHA-256 hash)
+- Referral-based extra chances: each referred registration adds one entry
+- Full draw proof published after each round
+
+**Push notifications and PWA**
+- Web push notifications for new messages and LFG matches
+- Installable PWA with service worker and offline manifest
 
 ---
 
@@ -129,10 +138,10 @@ The private production repository uses a blue-green deploy setup, a health check
 
 ## Real-world usage
 
-- ~201 registered users
+- ~215 registered users
 - ~5,100 unique visitors over 30 days (Cloudflare analytics)
 - Real user messages and sessions, not just registrations
-- Active streamer partner integrations with live OBS overlays in use
+- 11 active streamer partner integrations with live OBS overlays in use
 
 This is an early-stage, niche product. The numbers reflect a specific Hungarian CS2 audience, not a broad gaming platform.
 
