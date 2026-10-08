@@ -4,7 +4,7 @@ Hungarian CS2 players used to find teammates by typing `@Premier 15k +2` into a 
 
 maybe.hu fixes that.
 
-**Live:** [maybe.hu](https://maybe.hu) &nbsp;|&nbsp; ~215 registered users &nbsp;|&nbsp; ~5.1k unique visitors / 30 days
+**Live:** [maybe.hu](https://maybe.hu) &nbsp;|&nbsp; ~222 registered users &nbsp;|&nbsp; ~5.1k unique visitors / 30 days
 
 ![Next.js](https://img.shields.io/badge/Next.js_15-black?style=flat&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
